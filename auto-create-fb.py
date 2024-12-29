@@ -1,5 +1,5 @@
 #--> Author's Info
-Author    = 'MRSH4MUL
+Author    = MRSH4MUL
 Facebook  = 'MD SHIMUL'
 Instagram = 'NAI
 Whatsapp  = '01975549322'
